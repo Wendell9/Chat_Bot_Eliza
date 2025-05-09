@@ -136,7 +136,6 @@ Exemplo: se o usuário digitar `Oi`, o chatbot responde `Olá!`.
 ## 🧾 Requisitos
 
 * Logisim Evolution
-* Java 8+
 * Conhecimento básico de ASCII e circuitos digitais
 
 ---
