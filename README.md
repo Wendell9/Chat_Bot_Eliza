@@ -113,7 +113,9 @@ Exemplo: se o usuário digitar "Oi", o circuito responderá "Oi" ou "Olá!".
 
 ## 📸 Capturas de Tela
 
-Imagens do circuito completo estão disponíveis na pasta `/images`.
+
+![image](https://github.com/user-attachments/assets/4a38e540-c4e2-4046-aff0-1fa94a513883)
+![image (1)](https://github.com/user-attachments/assets/65257039-767d-453c-9050-ccee5ce74053)
 
 ---
 
